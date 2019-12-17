@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Work\MEngIOT\SoftwareEngineering\portfolio\cpp\cpptask\CppTask\Source1.cpp(24,6): warning C4101: 'n': unreferenced local variable
+  CppTask.vcxproj -> C:\Work\MEngIOT\SoftwareEngineering\portfolio\cpp\cpptask\CppTask\Debug\CppTask.exe
