@@ -1,0 +1,10 @@
+<readings><reading><time>Tue Dec 17 01:38:34 2019
+</time><temperature>46</temperature></reading><reading><time>Tue Dec 17 01:38:35 2019
+</time><temperature>22</temperature></reading><reading><time>Tue Dec 17 01:38:36 2019
+</time><temperature>39</temperature></reading><reading><time>Tue Dec 17 01:38:37 2019
+</time><temperature>5</temperature></reading><reading><time>Tue Dec 17 01:38:38 2019
+</time><temperature>24</temperature></reading><reading><time>Tue Dec 17 01:38:39 2019
+</time><temperature>29</temperature></reading><reading><time>Tue Dec 17 01:38:40 2019
+</time><temperature>33</temperature></reading><reading><time>Tue Dec 17 01:38:41 2019
+</time><temperature>13</temperature></reading><reading><time>Tue Dec 17 01:38:42 2019
+</time><temperature>17</temperature></reading></readings>
